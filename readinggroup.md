@@ -2,7 +2,7 @@
 title: Reading Group
 feature_text: |
   Reading group schedule
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "assets/bg2.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
