@@ -1,6 +1,6 @@
 ---
 title: Researchers
-feature_image: "assets/bg3.jpg"
+feature_image: "../assets/bg3.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 

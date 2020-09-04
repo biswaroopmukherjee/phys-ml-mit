@@ -1,8 +1,8 @@
 ---
 title: Researchers in Physics + ML
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "../assets/bg1.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
 
-## Soon
+## Soon to come
