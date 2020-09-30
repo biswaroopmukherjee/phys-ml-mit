@@ -1,7 +1,7 @@
 ---
 title: About 
 feature_text: |
-  ## AI+Physics@MIT
+  ## AI+Physics @MIT
   A home for the intersection of artificial intelligence and physics at MIT
 feature_image: "assets/home_bg.jpg"
 excerpt: "MIT Physics + ML"
@@ -17,6 +17,16 @@ Recent breakthroughs in the field of machine learning have enabled incredible pr
 - Intuitive physics and learning physical models
   
   
+
+## Organizers
+
+ 
+
+{% include site-id-photo.html image="assets/rumen.jpg" idname="Rumen Dangovski" position="right"  idtext="PhD student, Soljacic group" link="https://github.com/rdangovs"%}  
+
+{% include site-id-photo.html image="assets/biswaroop.jpg" idname="Biswaroop Mukherjee" position="right"  idtext="PhD student, Zwierlein group" link="http://biswaroop.me/"%} 
+
 ## Related Sites
 
 {% include button.html text="MIT Physics"  link="https://web.mit.edu/physics/" color="#0366d6" %} 
+

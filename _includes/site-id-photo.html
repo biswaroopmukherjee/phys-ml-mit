@@ -1,0 +1,11 @@
+
+<div class="container" style="height:200px;max-width:500px!important">
+  <figure class="figure  figure--{{ include.position | default: 'center' }}">
+    <img class="image" src="{{ include.image }}" style="height:110px;object-fit: cover;border-radius: 50%;">
+  </figure>
+  <p>
+    <b><a href="{{ include.link }}">{{include.idname}}</a></b>
+    <br>
+    {{include.idtext}}
+  </p>
+</div>
