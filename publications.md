@@ -5,4 +5,4 @@ excerpt: "A demo of Markdown and HTML includes"
 ---
 
 
-Soon to come
+Soon to come. Please, send your suggestions to [roop@mit.edu].
