@@ -8,7 +8,7 @@ excerpt: "MIT Physics + ML"
 ---
 
 
-Recent breakthroughs in the field of machine learning have enabled incredible progress in other fields, including astronomy, drug discovery, cognitive science, and more recently, physics. The intersection between physics and machine learning is a rapidly expanding field, and we'd like to keep abreast of progress, as well as discuss new ideas.
+Recent breakthroughs in the field of machine learning have enabled incredible progress in other fields, including astronomy, drug discovery, cognitive science, and more recently, physics. The intersection between physics and machine learning is a rapidly expanding field, and we'd like to keep abreast of progress, as well as discuss new ideas by creating an environment for graduate students in the Physics and the EECS departments.
 
 ## Topics we like to cover
 
@@ -16,7 +16,12 @@ Recent breakthroughs in the field of machine learning have enabled incredible pr
 - Physics applied to classical machine learning
 - Intuitive physics and learning physical models
   
-  
+
+## News
+
+#### [Click Here for the Interest Form](https://forms.gle/XtyfMMer7zn119N89)  
+
+#### [Sign up for the AIphysics mailing list](http://mailman.mit.edu/mailman/listinfo/aiphysics)
 
 ## Organizers
 
