@@ -23,6 +23,8 @@ Recent breakthroughs in the field of machine learning have enabled incredible pr
 
 #### [Sign up for the AIphysics mailing list](http://mailman.mit.edu/mailman/listinfo/aiphysics)
 
+
+
 ## Organizers
 
  
